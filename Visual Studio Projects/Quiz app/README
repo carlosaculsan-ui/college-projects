@@ -1,2 +1,5 @@
+> This project was created using **VB.NET** in **Visual Studio 2015**. 
+
 > **Disclaimer:** Some files and folders mappear with generic names like `WinFormsApps`.  
-> Don’t be confused—this is the official source code for the Quiz App project in VisualStudio
+ These are part of the original project structure and **cannot be renamed individually** due to the number of files.
+
