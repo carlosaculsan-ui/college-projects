@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\FinalForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Registration Section.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Results.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Super Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="My Project\Voting Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
